@@ -58,7 +58,7 @@ public class PostResults extends HttpServlet {
         
         PostUpdate post = new PostUpdate(new URL("https://glacial-fortress-25541.herokuapp.com/"))
 //                .picture(new URL("http://localhost:8080/" + request.getContextPath()+ postImg)) //For localhost testing
-                .picture(new URL(request.getContextPath()+ postImg))
+                .picture(new URL("https://glacial-fortress-25541.herokuapp.com"+ postImg))
                 .name("What is your 'DISC' personality type?")
                 .caption("Personality Type Assessment")
                 .description("A quick 'DISC' personality assessment.");

@@ -43,12 +43,12 @@
                 <br>
                 <div class="row">
                     <div class="col-sm-12 col-sm-offset-1 text-center">
-                <div
-                    class="fb-like"
-                    data-share="true"
-                    data-width="450"
-                    data-show-faces="true">
-                </div>
+                        <div
+                            class="fb-like"
+                            data-share="true"
+                            data-width="450"
+                            data-show-faces="true">
+                        </div>
                     </div>
                 </div>
         </div>
