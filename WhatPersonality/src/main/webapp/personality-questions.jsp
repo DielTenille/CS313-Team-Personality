@@ -40,10 +40,10 @@
                     <h2 class="text-uppercase">Most Like Me</h2>
                     <hr>
                     <ul id="sortable">
-                        <li class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[0]}</li>
-                        <li class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[1]}</li>
-                        <li class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[2]}</li>
-                        <li class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[3]}</li>
+                        <li id="1" class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[0]}</li>
+                        <li id="2" class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[1]}</li>
+                        <li id="3" class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[2]}</li>
+                        <li id="4" class="ui-state-default btn-primary"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>${options[3]}</li>
                     </ul>
                     <hr>
                     <h2 class="text-uppercase">Least Like Me</h2>
